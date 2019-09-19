@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IMDBdemo",
+            "request": "launch",
+            "mainClass": "IMDBdemo",
+            "projectName": "Homework 4_e2721c9f"
+        }
+    ]
+}
